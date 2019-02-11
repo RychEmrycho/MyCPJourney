@@ -66,5 +66,6 @@ void methodThreeBest(long long N) {
         cout << "Lampu mati" << endl;
     } else {
         cout << "Lampu menyala" << endl;
+        string a = "hellwo";
     }
 }
